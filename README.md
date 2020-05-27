@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-python.png" >
+</p>
+
 # Python e o Padrão de Projetos Strategy
 
 Repositório contém classes Python desenvolvidas seguindo o padrão de projetos Strategy.
